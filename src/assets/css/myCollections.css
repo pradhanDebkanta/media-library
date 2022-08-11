@@ -1,0 +1,31 @@
+.createCollectionContainer {
+    padding: 0.2rem 0.5rem 0.5rem;
+}
+
+.paginationBox, .createCollectionBox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.paginationContainer {
+    padding: 0.5rem 0.5rem 1.5rem;
+    margin-top: 1rem;
+}
+
+.collectionContainer {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.cNameBox {
+    margin: 20px 8px;
+    padding: 8px 4px;
+    border-radius: 8px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    /* min-height: 130px; */
+}
+
+.cHeader {
+    padding-left: 8px;
+    padding-top: 6px;
+}
