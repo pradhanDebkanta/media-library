@@ -13,10 +13,10 @@ _Here I made a advanced folder structure of Redux Store and a production level c
     5) user can logout from dashboard page by clicking logout button.
     6) If user login and close the tab, he/she can direct go to dashboard at next time.
 ### `Demo of this project`
- [https://dk-order-managenent.netlify.app/](https://dk-order-managenent.netlify.app/) 
+ [https://medialibraryapp.netlify.app/](https://medialibraryapp.netlify.app/) 
  
  ## There is a json server for this app
- [https://github.com/pradhanDebkanta/fake-server](https://github.com/pradhanDebkanta/fake-server)
+ [https://github.com/pradhanDebkanta/media-library-server](https://github.com/pradhanDebkanta/media-library-server)
  
  ##
  [![Build Status](https://miro.medium.com/max/312/1*SRL22ADht1NU4LXUeU4YVg.png)](./)
